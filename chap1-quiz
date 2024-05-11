@@ -1,0 +1,101 @@
+
+Question 1
+When Python is running in the interactive mode and displaying the chevron prompt (>>>) - what question is Python asking you?  1 point
+
+  a) What is your favourite color?
+  b)What Python script would you like me to run?
+  c)What is the next machine language instruction to run?
+  d)What would you like to do?
+ans: d
+
+2.
+Question 2
+What will the following program print out:
+  >>> x = 15
+  >>> x = x + 5
+  >>> print(x)
+  
+    a)20
+    b)5
+    c)15
+    d)"print x"
+    e)x + 5
+ans:a
+
+Question 3
+Python scripts (files) have names that end with:
+  a).png
+  b).exe
+  c).doc
+  d).py
+ans:d
+
+4.
+Question 4
+Which of these words is a reserved word in Python ?
+  for
+  names
+  pizza
+  payroll
+ans:for
+  
+5.
+Question 5
+What is the proper way to say “good-bye” to Python?
+
+  #EXIT
+  quit()
+  while
+  // stop
+ans quit()
+
+6.
+Question 6
+Which of the parts of a computer actually executes the program instructions?
+
+  Main Memory
+  Central Processing Unit
+  Secondary Memory
+  Input/Output Devices
+ans:Central Processing Unit
+
+7.
+Question 7
+What is "code" in the context of this course?
+
+  A set of rules that govern the style of programs
+  A password we use to unlock Python features
+  A way to encrypt data during World War II
+  A sequence of instructions in a programming language
+ans:A sequence of instructions in a programming language
+
+8.
+Question 8
+A USB memory stick is an example of which of the following components of computer architecture?
+
+  Main Memory
+  Central Processing Unit
+  Secondary Memory
+  Output Device
+ans: Secondary Memory
+
+9.
+Question 9
+What is the best way to think about a "Syntax Error" while programming?
+
+  The computer needs to have its software upgraded
+  The computer is overheating and just wants you to stop to let it cool down
+  The computer did not understand the statement that you entered
+  The computer has used GPS to find your location and hates everyone from your town
+ans:The computer did not understand the statement that you entered
+
+10.
+Question 10
+Which of the following is not one of the programming patterns covered in Chapter 1?
+
+  Sequential Steps
+  Random steps
+  Repeated Steps
+  Conditional Steps
+
+ans: Random Steps
